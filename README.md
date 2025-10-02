@@ -1,7 +1,7 @@
 # DRL_DDQN_PPO
 大三專題文本
 
-內容分成 PPO 與 DDQN 模型
+內容分成 PPO (profile_main) 與 DDQN 模型
 
 模型專案中各有一個 README.md 解釋如何運作
 
